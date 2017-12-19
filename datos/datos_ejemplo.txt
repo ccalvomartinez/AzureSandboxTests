@@ -1,0 +1,2 @@
+1000000|osvaldo,poggetti, staiano|robledo de chavela,madrid|25|happy:true
+1000000|pedro, romera, acevez|madrid,madrid|42|sad:false
